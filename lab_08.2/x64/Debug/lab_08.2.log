@@ -1,0 +1,3 @@
+﻿  lab_08.2.cpp
+C:\Users\VITUK\source\repos\lab_08.2\lab_08.2\lab_08.2.cpp(7,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab_08.2.vcxproj -> C:\Users\VITUK\source\repos\lab_08.2\x64\Debug\lab_08.2.exe
